@@ -1,0 +1,1 @@
+20230426	20:52:43	596f646c-71af-42fc-b573-92dadd113bb3	Error: ENOENT: no such file or directory, stat 'D:\Usuario\Code\JavaScript\nodejs_web_server\views\sibdir\index.html'

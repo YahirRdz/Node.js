@@ -1,1 +1,5 @@
 20230426	20:52:43	596f646c-71af-42fc-b573-92dadd113bb3	Error: ENOENT: no such file or directory, stat 'D:\Usuario\Code\JavaScript\nodejs_web_server\views\sibdir\index.html'
+20230428	14:49:56	989e2f4a-5779-479b-a2c9-ee38dc9e0845	Error: Not allowed to access
+20230428	14:50:34	eff67ac4-5fa9-4474-be2d-0143f5bad694	Error: Not allowed to access
+20230428	14:50:35	b6c62f79-26b5-4ccb-b841-28377af6c674	Error: Not allowed to access
+20230428	14:52:25	a2f47ce2-ceb3-4633-8301-0a2af47a9b52	Error: Not allowed to access

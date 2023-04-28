@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3500;
 app.use(logger);
 
 //cross origin resouse sharing
-app.use(cors(corsOptions));
+// app.use(cors(corsOptions));
 
 app.use(express.urlencoded({ extended: false }));
 
@@ -21,6 +21,8 @@ app.use(express.json());
 app.use("/", express.static(path.join(__dirname, "/public")));
 
 app.use("/", require("./routes/root"));
+app.use("/register", require("./routes/register"));
+app.use("/auth", require("./routes/auth"));
 app.use("/employees", require("./routes/api/employees"));
 
 //app.use('/)
